@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.kloudone.dealer"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "microservice",
+    "baseName": "dealer",
+    "packageName": "com.kloudone.dealer",
+    "packageFolder": "com/kloudone/dealer",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjZkOTMyODQyNDE5ZDc3NTk2NjM4ODg1N2YxNTViMTk1NzY5M2U1MWZmZWIzODdhOTE0ZTU3NmExZWU0MjA2ZTE3NGM0ZjEwOTJkMzRjYTcxNDc3MjhhZmQ1NzAwZjExZWYxZTA4OWU4MDQ1NjI2NDQ5OGNiYzliN2MyYWRlMGU=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
